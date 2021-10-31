@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F79EC37-7AEA-4E1C-B546-5DC55CA54D97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E2DE502-0AD9-4C66-9C44-92797C3FFF55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/data model/Order.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E2DE502-0AD9-4C66-9C44-92797C3FFF55 - 65cada8d8074a30a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloading_data_from_internet.Order.__allocating_init(from: Swift.Decoder) throws -&gt; downloading_data_from_internet.Order"
+                  moduleName = "downloading data from internet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vojta/Desktop/Swift/downloading%20data%20from%20internet/Shared/data%20model/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "2E2DE502-0AD9-4C66-9C44-92797C3FFF55 - 712dcd68db561821"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloading_data_from_internet.Order.init(from: Swift.Decoder) throws -&gt; downloading_data_from_internet.Order"
+                  moduleName = "downloading data from internet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vojta/Desktop/Swift/downloading%20data%20from%20internet/Shared/data%20model/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "2E2DE502-0AD9-4C66-9C44-92797C3FFF55 - 712dcd68db561c2e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "downloading_data_from_internet.Order.init(from: Swift.Decoder) throws -&gt; downloading_data_from_internet.Order"
+                  moduleName = "downloading data from internet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vojta/Desktop/Swift/downloading%20data%20from%20internet/Shared/data%20model/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "3616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
